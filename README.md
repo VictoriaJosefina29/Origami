@@ -1,2 +1,1 @@
-# Origami
-Aprendamos a doblar hojas de forma divertida
+# Proy_52_origami
